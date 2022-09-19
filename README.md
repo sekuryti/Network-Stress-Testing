@@ -9,3 +9,8 @@ Usage:
 ```
 ./dhcp-flood.sh <interface>
 ```
+
+Usage - run in multiple terminal windows: 
+```
+python3 threaded.py <binary>
+```
