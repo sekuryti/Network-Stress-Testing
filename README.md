@@ -1,5 +1,6 @@
 # Network-Stress-Testing
 
+Usage: 
 ```
-Usage: python3 denial_of_service.py <host> <port>
+python3 denial_of_service.py <host> <port>
 ```
